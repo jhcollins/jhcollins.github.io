@@ -1677,3 +1677,25 @@ input, select, textarea {
   border: 5px solid white;
   overflow: hidden;
 }
+
+.icon-wrapper {
+    padding:3px;
+    height:15px;
+    width:15px;
+}
+.icon{
+    height:50px;
+    width:50px
+}
+.icon{
+    transition:all .2s ease-in-out;
+}
+.icon:hover{
+    transform:scale(1.2);
+}
+.skills {
+  margin-bottom: 25px; }
+
+.container {
+display: inline-block;
+}
