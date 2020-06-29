@@ -1679,9 +1679,9 @@ input, select, textarea {
 }
 
 .icon-wrapper {
-    padding:0;
-    height:100%;
-    width:100%;
+    padding:3px;
+    height:15px;
+    width:15px;
 }
 .icon{
     height:50px;
