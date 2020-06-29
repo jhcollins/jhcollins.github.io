@@ -1684,8 +1684,8 @@ input, select, textarea {
     width:15px;
 }
 .icon{
-    height:50px;
-    width:50px
+    height:500%;
+    width:70%
 }
 .icon{
     transition:all .2s ease-in-out;
